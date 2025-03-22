@@ -1,18 +1,12 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi! I'm Vu Tran
+I started out as graduate with Computer Science and Finance background. I have always been curious with how data and numbers explain the problems in our daily life. I love to come up with solutions backed up with the facts and communicate those solutions effectively.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm passionate about detangle complicated patterns into clear models. Data cleaning is part of the job that I enjoy performing. As a Data Analyst, I always strive to improve my skills in both data analytics and business communications.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am currently looking for challenges and opportunities in roles as either Data Analyst or Business Intelligence Analyst.
