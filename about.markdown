@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: About
-permalink: /about/
+permalink: SamplePortfolio/about/
 ---
 
 # Hi! I'm Vu Tran
