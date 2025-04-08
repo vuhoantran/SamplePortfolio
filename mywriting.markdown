@@ -1,7 +1,6 @@
 ---
 layout: categories_work
 title: My Writing
-parmalink: /mywriting
 author: Vu Tran
 author_profile: true
 ---
