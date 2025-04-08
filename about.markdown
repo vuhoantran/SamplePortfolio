@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Vu Tran
+author_profile: true
 ---
 
 # Hi! I'm Vu Tran

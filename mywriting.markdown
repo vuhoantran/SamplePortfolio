@@ -1,10 +1,12 @@
 ---
-layout: archive
+layout: categories_work
 title: My Writing
 parmalink: /mywriting
+author: Vu Tran
+author_profile: true
 ---
 
-# Welcome to my blog!
+## Welcome to my blog!
 
 Blog 1
 
