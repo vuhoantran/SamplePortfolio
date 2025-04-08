@@ -1,0 +1,11 @@
+Vu Tran:
+  name        : "Vu Tran"
+  bio         : "Let's talk about data! Reach out via the links below."
+  avatar      : "https://placehold.co/400"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://vuhoantran.github.io/SamplePortfolio/"
